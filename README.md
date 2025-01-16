@@ -44,3 +44,6 @@ Squeeze your meta analysis from papers
 ├── output.csv
 └── README.md
 ```
+
+## Acknowledgment
+This repository is dedicated to my esteemed political scientist, [@gskulski](https://github.com/gskulski), who tirelessly fights against misinformation to improve political life for humanity.
