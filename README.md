@@ -46,4 +46,4 @@ Squeeze your meta analysis from papers
 ```
 
 ## Acknowledgment
-This repository is dedicated to my esteemed political scientist, [@gskulski](https://github.com/gskulski), who tirelessly fights against misinformation to improve political life for humanity.
+This repository is dedicated to my esteemed political scientist, [@gskulski](https://github.com/gskulski), who fights against misinformation to improve political life for humanity.
